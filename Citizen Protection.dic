@@ -1,0 +1,56 @@
+%
+999	PreventionFocus
+28	Accura_
+29	Afraid_
+30	Anxi_
+31	Avoid_
+32	Careful_
+33	Conservative_
+34	Defend_
+35	Duty_
+36	Escape_
+37	Escaping_
+38	Evade_
+39	Fail_
+40	Fear_
+41	Loss_
+42	Obligation_
+43	Ought_
+44	Pain_
+45	Prevent_
+46	Protect_
+47	Responsible_
+48	Risk_
+49	Safe_
+50	Secur_
+51	Threat_
+52	Vigilan_
+53	Attrition_54	Avert_55	Constrain_56	Counter_57	Curb_58	Deny_59	Deport_60	Duress_61	Evacuate_62	Guard_63	Hostage_64	Inhibit_65	Keep_66	Limit_67	Maintain_68	Mitigate_69	Monitor_70	Patrol_71	Preserve_72	Recover_73	Regulate_74	Rescue_75	Restrict_76	Retain_ 77	Safeguard_78	Save_79	Shield_80	Stave_81	Ward_82	Withdraw_
+
+%
+Accura*	28	999
+Afraid*	29	999
+Anxi*	30	999
+Avoid*	31	999
+Careful*	32	999
+Conservative*	33	999
+Defend*	34	999
+Duty*	35	999
+Escape*	36	999
+Escaping*	37	999
+Evade*	38	999
+Fail*	39	999
+Fear*	40	999
+Loss*	41	999
+Obligation*	42	999
+Ought*	43	999
+Pain*	44	999
+Prevent*	45	999
+Protect*	46	999
+Responsible*	47	999
+Risk*	48	999
+Safe*	49	999
+Secur*	50	999
+Threat*	51	999
+Vigilan*	52	999
+Attrit*	53	999Aver*		54	999Constrain*	55	999Counter*	56	999Curb*		57	999Deny*		58	999Deport*	59	999Duress*	60	999Evacuat*	61	999Guard*	62	999Hostage*	63	999Inhibit*	64	999Keep*		65	999Limit*	66	999Maintain*	67	999Mitigat*	68	999Monitor*	69	999Patrol*	70	999Preserv*	71	999Recover*	72	999Regulat*	73	999Rescue*	74	999Restrict*	75	999Retain*	76	999Safeguard*	77	999Save*		78	999Shield*	79	999Stave*	80	999Ward*		81	999Withdraw*	82	999
